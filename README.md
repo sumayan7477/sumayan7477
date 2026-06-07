@@ -1,47 +1,140 @@
-# Hi 👋, I'm sumayan7477
+# 👋 Hi, I'm Sumaiya Akter (sumayan7477)
 
-### Full-Stack Developer | React.js & ASP.NET Core Developer
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=2F7EF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React.js+%26+ASP.NET+Core+Expert;Building+Scalable+Web+Apps;Open+Source+Contributor" alt="Typing SVG" />
+</div>
 
-- 🔭 I'm currently working on **Building scalable web applications with React.js, ASP.NET Core Web API, and modern frontend technologies.**
+<br/>
 
-- 🌱 I'm currently learning **Advanced ASP.NET Core, System Design, Cloud Computing, and Software Architecture.**
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sumayan7477&label=Profile%20Views&color=2F7EF7&style=for-the-badge" alt="Profile Views" />
+</div>
 
-- 👯 I'm looking to collaborate on **Open-source projects, SaaS applications, and modern web development solutions.**
+---
 
-- 🤝 I'm looking for help with **Cloud deployment, distributed systems, and software architecture best practices.**
+## 🚀 About Me
 
-- 💬 Ask me about **React.js, Next.js, ASP.NET Core, C#, JavaScript, REST APIs, MongoDB, and SQL Server.**
+I'm a passionate **Full-Stack Developer** specializing in modern web technologies. I love turning complex problems into simple, elegant solutions.
 
-- 📫 How to reach me **linkedin :https://www.linkedin.com/in/sumaiya-mayan-5b23a7317/  email : sumayan7477@gmail.com**
+- 🔭 **Currently working on:** Building scalable web applications with React.js, ASP.NET Core Web API, and modern frontend technologies
+- 🌱 **Currently learning:** Advanced ASP.NET Core, System Design, Cloud Computing & Software Architecture
+- 👯 **Looking to collaborate on:** Open-source projects, SaaS applications, and modern web solutions
+- 🤝 **Seeking help with:** Cloud deployment, distributed systems, and architecture best practices
+- 💬 **Ask me about:** React.js, Next.js, ASP.NET Core, C#, JavaScript, REST APIs, MongoDB, SQL Server
+- ⚡ **Fun fact:** I enjoy turning complex problems into simple, user-friendly solutions
 
-- ⚡ Fun fact **I enjoy turning complex problems into simple, user-friendly solutions.
-Profile Enhancement
-Show profile visitors counter badge
-Show GitHub stats
-Show top languages
-Show GitHub streak stats
-**
+---
 
-- 👨‍💻 All of my projects are available at **[https://portfolio-sumaiya.web.app/](https://portfolio-sumaiya.web.app/)**
+## 📫 Connect With Me
 
-- 📝 I regularly write articles on **[https://www.youtube.com/@aquaknowledge1596](https://www.youtube.com/@aquaknowledge1596)**
+<div align="center">
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumayan7477)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumaiya-mayan-5b23a7317)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SumayaAkte7477)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@aquaknowledge1596)
+  [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22299394/sumaya-akter)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/LdVzvD0onk)
+  [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/sumayaa40e)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/sumaiya.islam.72019)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sumaya_islam_747)
+  [![CodeSandbox](https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/sumayan7477)
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1F2klxuzF7vQcnsrSH0Zb3gGUYC6HiO_z/view?usp=sharing](https://drive.google.com/file/d/1F2klxuzF7vQcnsrSH0Zb3gGUYC6HiO_z/view?usp=sharing)**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/sumayan7477" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sumayan7477" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sumaiya-mayan-5b23a7317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumaiya-mayan-5b23a7317" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22299394/sumaya-akter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22299394/sumaya-akter" height="30" width="40" /></a>
-<a href="https://codesandbox.io/sumayan7477" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sumayan7477" height="30" width="40" /></a>
-<a href="https://fb.com/sumaiya.islam.72019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sumaiya.islam.72019" height="30" width="40" /></a>
-<a href="https://instagram.com/sumaya_islam_747" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumaya_islam_747" height="30" width="40" /></a>
-<a href="https://twitter.com/SumayaAkte7477" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SumayaAkte7477" height="30" width="40" /></a>
-<a href="https://youtube.com/@aquaknowledge1596" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aquaknowledge1596" height="30" width="40" /></a>
-<a href="https://leetcode.com/LdVzvD0onk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LdVzvD0onk" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sumayaa40e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sumayaa40e" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/angularjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angularjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
+## 🛠️ Tech Stack
 
+<div align="center">
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### Backend
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sumayan7477&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F7EF7&icon_color=2F7EF7" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumayan7477&theme=radical&hide_border=true&background=0D1117&ring=2F7EF7&fire=2F7EF7&currStreakLabel=2F7EF7" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumayan7477&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F7EF7" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sumayan7477&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🌟 Featured Resources
+
+<div align="center">
+
+| 📁 **Portfolio** | ✍️ **Blog/YouTube** | 📄 **Resume** |
+|:---:|:---:|:---:|
+| [![Portfolio](https://img.shields.io/badge/Visit_Portfolio-2F7EF7?style=for-the-badge&logo=react&logoColor=white)](https://portfolio-sumaiya.web.app/) | [![YouTube Channel](https://img.shields.io/badge/Aqua_Knowledge-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aquaknowledge1596) | [![Resume](https://img.shields.io/badge/Download_Resume-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1F2klxuzF7vQcnsrSH0Zb3gGUYC6HiO_z/view) |
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
+---
+
+<div align="center">
+  <b>💻 "Code is like humor. When you have to explain it, it's bad." – Cory House</b>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sumayan7477/sumayan7477/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/sumayan7477">sumayan7477</a></i>
+</div>
