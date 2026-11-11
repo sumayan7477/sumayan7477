@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sumaiya Akter (sumayan7477)
+# 👋 Hi, I'm Sumaiya (sumayan7477)
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=2F7EF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React.js+%26+ASP.NET+Core+Expert;Building+Scalable+Web+Apps" alt="Typing SVG" />
